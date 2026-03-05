@@ -36,22 +36,6 @@
 
 ---
 
-#### Top Repositories
-
-
-<div align="center">
-<a href="https://github.com/carapaz/graph">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=carapaz&repo=graph&theme=buefy" />
-</a>
-
-<a href="https://github.com/carapaz/BarbersBuddies_Onlineshop_maker">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=carapaz&repo=BarbersBuddies_Onlineshop_maker&theme=buefy" />
-</a>
-
-</div>
-
----
-
 ### ☕ Let's Connect
 
 <p align="left">
