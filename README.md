@@ -36,17 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=carapaz&theme=radical&hide_border=true" 
-    width="400"
-  />
-</p>
-
----
-
 #### Top Repositories
 
 
