@@ -19,7 +19,16 @@
 - 🎯 My goal: Build interfaces that feel like magic ✨
 <img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
 
+---
  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=carapaz&theme=radical&hide_border=true" 
+    width="400"
+  />
+</p>
 
 ---
 
